@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: 'Boska-Variable';
+    src: url('/assets/Boska-Variable.ttf');
+}
+
+body {
+    font-family: 'Boska-Variable';
+}
