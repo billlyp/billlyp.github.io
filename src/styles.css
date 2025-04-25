@@ -5,6 +5,13 @@
     src: url('/assets/Boska-Variable.ttf');
 }
 
+@font-face {
+    font-family: 'Satoshi-Variable';
+    src: url('/assets/Satoshi-Variable.ttf');
+}
+
 body {
     font-family: 'Boska-Variable';
+    background-color: #ECE5D8;
+    color: #607EBC;
 }

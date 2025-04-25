@@ -6,3 +6,37 @@
 .link {
     text-decoration: none;
 }
+
+.skill {
+    font-family: 'Satoshi-Variable';
+    font-weight: 500;
+}
+
+.experience-title {
+    font-size: 20px;
+    font-family: 'Satoshi-Variable';
+    font-weight: 500;
+}
+
+.experience-description {
+    font-size: 14px;
+    font-family: 'Satoshi-Variable';
+    font-weight: 300;
+}
+
+.contact-me-input {
+    color: #607EBC;
+    background-color: transparent;
+    border-color: #607EBC;
+    border-style: solid;
+    border-width: 0.1vw;
+}
+.contact-me-submit {
+    font-size: 18px;
+    padding: 0.375vw;
+    background-color: transparent;
+    border-color: #607EBC;
+    border-style: solid;
+    border-width: 0.1vw;
+    border-radius: 4px;
+}
